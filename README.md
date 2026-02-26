@@ -23,3 +23,5 @@ Analysis performed with focus on operational performance and data-driven decisio
 
 ## Notebook
 food_delivery_operational_analysis.ipynb
+
+##Dataset: Publicly available food delivery dataset used for learning and analysis.
